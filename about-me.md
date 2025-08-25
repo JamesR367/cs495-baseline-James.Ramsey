@@ -13,3 +13,4 @@ I'm comfortable with most things when it comes to coding at least my ability to 
 #### Question 5:
  The only thing I'm not comfortable with are databases and I am currently in the database class so I hopefully feel more comfortable with them as the class continues.
 
+My Concentration is in data analytics and machine learning.
